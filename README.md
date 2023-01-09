@@ -1,1 +1,2 @@
 # Multi-layered-Learned-Bloom-FIlter
+The graduation project for Computer Science master of Melbourne University. In this project, I learned about machine learning-based AMQ structures and implemented a space-efficient learned-based Bloom filter in Python. That structure outperforms the latest competitors at that time in space.  Note the PLBF algorithm implementation in PLBF.py was borrowed and modified from https://github.com/kapilvaidya24/PLBF.
